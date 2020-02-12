@@ -1,7 +1,7 @@
 {
     "name": "Dev'Coffe",
     "short_name": "DevCafe",
-    "start_url": "file:///C:/Users/USER/Desktop/pwa/index.html",
+    "start_url": "https://feliciapwa.netlify.com/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
